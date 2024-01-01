@@ -1,0 +1,22 @@
+h1 {
+  background-image: url(./pattern.jpeg);
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumseagreen;
+}
+img {
+  height: 500px;
+  width: 500px;
+}
+h2.fr {
+  background-color: lightcoral;
+}
